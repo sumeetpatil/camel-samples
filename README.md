@@ -1,2 +1,2 @@
-# camel-samples
-Apache Camel Samples
+# Apache Camel Samples
+This reporsitory cotains apache camel samples
